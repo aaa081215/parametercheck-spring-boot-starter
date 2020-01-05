@@ -3,7 +3,7 @@ package hiweek.common.model;
 /**
  * 服务层通用的返回结果
  *
- * @author billon
+ * @author wangpengpeng
  * @version 1.0.0
  * @since 1.0.0
  */

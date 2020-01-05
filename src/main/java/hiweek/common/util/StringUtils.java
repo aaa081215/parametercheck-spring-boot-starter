@@ -14,7 +14,7 @@ import java.util.regex.Pattern;
 /**
  * 字符工具类
  *
- * @author billon
+ * @author wangpengpeng
  * @version 1.0.0
  * @since 1.0.0
  */

@@ -3,7 +3,7 @@ package hiweek.common.constant;
 /**
  * 通用状态码(1~99999)
  *
- * @author billon
+ * @author wangpengpeng
  * @version 1.0.0
  * @since 1.0.0
  */
