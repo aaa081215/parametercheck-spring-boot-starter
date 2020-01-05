@@ -181,7 +181,7 @@ public class StringUtils {
             String paramValue = params.get(paramNames[i]);
             // 1)参数为空,但必填,则抛出异常
             if (required[i] && StringUtils.isEmpty(paramValue)) {
-                throw new ParamException("参数[" + paramNames[i] + "]不能为空");
+                throw new ParamException("参数校验失败");
             }
 
             // 2)参数为空,非必填,则从params中移除该参数键值对,跳出本次循环

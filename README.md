@@ -49,7 +49,7 @@ http://localhost:8080/product
 ```
 {
     code: 10001,
-    msg: "参数[productName]不能为空"
+    msg: "参数校验失败"
 }
 ```
 
