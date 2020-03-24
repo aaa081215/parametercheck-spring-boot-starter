@@ -1,12 +1,12 @@
-# spring-boot-starter-parametercheck
+# parametercheck-spring-boot-starter
 适用于微服务的参数校验注解 
 只需在controller之前加入注解即可进行参数校验
 
-1， 引入 spring-boot-starter-parametercheck依赖 
+1， 引入 parametercheck-spring-boot-starterk依赖 
    
 ~~~
 <dependency>
-         <artifactId>spring-boot-starter-parametercheck</artifactId>
+         <artifactId>parametercheck-spring-boot-starter</artifactId>
          <groupId>top.9421</groupId>
          <version>1.0.1-SNAPSHOT</version>
 </dependency>
