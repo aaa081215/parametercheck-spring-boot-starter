@@ -5,8 +5,8 @@
 
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>parametercheck-spring-boot-starter</artifactId>
-    <groupId>top.9421</groupId>
+    <artifactId>spring-boot-starter-parametercheck</artifactId>
+    <groupId>9421.top</groupId>
     <version>1.0.1-SNAPSHOT</version>
     <build>
         <plugins>
